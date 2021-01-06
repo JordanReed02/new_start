@@ -1,7 +1,14 @@
+# frozen_string_literal: true
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in new_start.gemspec
-gemspec
+gem 'activerecord', '~> 5.2'
+gem "sinatra-activerecord"
+gem "sqlite3"
+gem "pry"
+gem "require_all"
+gem "faker"
+# gem "rest-client"
 
-gem "rake", "~> 12.0"
-gem "rspec", "~> 3.0"
+gem "colorize", "~> 0.8.1"
+
+gem "rest-client", "~> 2.1"
