@@ -23,7 +23,7 @@ module Instructions
  end
 
  def quit_message
-   puts 'You have quit the scraper'
+   puts 'You have quit the new_start'
  end
 
  def invalid_entry
