@@ -1,8 +1,7 @@
 # NewStart
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/new_start`. To experiment with that code, run `bin/console` for an interactive prompt.
+Welcome to your new_start! In this directory, you'll find a cli application meant to give some inspiration/clarity on your coding journey. 
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
@@ -22,7 +21,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+1.cd into new_start
+
+2.cd into lib
+
+3.run 'ruby scraper.rb' to run cli :)
 
 ## Development
 
